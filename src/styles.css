@@ -1,5 +1,5 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@200,300,400,500,700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Grandstander:ital,wght@1,500&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital@1&display=swap');
 
 .App {
 	text-align: center;
@@ -10,7 +10,7 @@ body {
 }
 
 .title {
-	font-family: "Roboto";
+	font-family: 'Zilla Slab', serif;
 	font-weight: 300;
 }
 
@@ -34,7 +34,7 @@ button:active {
 }
 
 .quotes {
-	font-family: "Grandstander", cursive;
+	font-family: 'Fraunces', serif;
 	margin: 10%;
 	margin-bottom: 5%;
 	font-size: 22px;
@@ -42,5 +42,6 @@ button:active {
 
 .author {
 	font-size: 20px;
-	font-family: "Grandstander", cursive;
+	font-family: 'Fraunces', serif;
+
 }
